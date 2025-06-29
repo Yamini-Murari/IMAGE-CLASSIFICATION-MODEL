@@ -60,7 +60,7 @@ The architecture of CNN used in this task consists of the following layers:
 
 7.Dense Output Layer (10 units,Softmax activation) – Outputs probability distribution over 10 digit classes.
 
-###Compilation & Training Details
+### Compilation & Training Details
 
 Loss Function: sparse_categorical_crossentropy – employed since we have integer-labeled classes.
 
