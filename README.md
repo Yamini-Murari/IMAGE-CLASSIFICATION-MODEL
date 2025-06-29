@@ -60,4 +60,14 @@ The architecture of CNN used in this task consists of the following layers:
 
 7.Dense Output Layer (10 units,Softmax activation) – Outputs probability distribution over 10 digit classes.
 
+###Compilation & Training Details
 
+Loss Function: sparse_categorical_crossentropy – employed since we have integer-labeled classes.
+
+Optimizer: adam – a self-adaptive optimizer that works well in practice.
+
+Metrics: accuracy – measures how frequently predictions equal labels.
+
+Batch Size: 32 – how many samples are handled at a time before the model is updated.
+
+Epochs: 4 – how many times the model passes over the whole training set.
