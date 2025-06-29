@@ -45,6 +45,7 @@ The MNIST dataset contains 70,000 grayscale images:
 
 ### Model Details
 The architecture of CNN used in this task consists of the following layers:
+
 1.Conv2D Layer(32 filters,3x3 kernel,ReLU activation) – Conscientious to learn simple edges and textures.
 
 2.MaxPooling2D Layer – Used to reduce dimensionality and computation.
