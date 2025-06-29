@@ -27,9 +27,9 @@ This project includes:
 - Visualization of training and validation performance
   
 ### Tools and Technologies Used
-| Tool/Technology    | Use case                                  |
-------------------------------------------------------------------
-|  Python        | programming language used for implementation  |
+| Tool/Technology    | Use case |
+-------------------|-------------|
+| programming language used for implementation  |
 |  Tensorflow    | library used to build and train CNN           |
 |  Keras          | to download dataset and model building        |
 |  Matplotlib     |  for plotting accuracy and loss graphs        |
