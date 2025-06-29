@@ -26,8 +26,8 @@ This project includes:
 
 - Visualization of training and validation performance
   
-### Tools and Technologies Used
-| Tool/Technology    | Use case |
+### Tools  Used
+| Tools   | Use case |
 |-------------------|-------------|
 | Python     | programming language used for implementation  |
 |  Tensorflow    | library used to build and train CNN           |
@@ -71,3 +71,30 @@ Metrics: accuracy – measures how frequently predictions equal labels.
 Batch Size: 32 – how many samples are handled at a time before the model is updated.
 
 Epochs: 4 – how many times the model passes over the whole training set.
+
+### Evaluation & Results
+
+The model is tested after training using the test set. The test gives:
+
+Test accuracy: Final model accuracy on new test data.
+
+Test loss: Average loss on the test dataset.
+
+The performance is plotted with Matplotlib to see:
+
+Training vs Validation accuracy
+
+Training vs Validation loss
+
+### Applications
+
+- Handwritten digit recognition
+
+- Object recognition in images
+
+- CNNs can be used in various fields for pattern recognition
+
+- CNNs can be used to detect and classify traffic signals
+
+### Conclusion
+This project showcases how CNNs are designed to work with image data efficiently and demonstrates their strength in recognizing visual patterns.
