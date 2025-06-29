@@ -29,8 +29,16 @@ This project includes:
 ### Tools and Technologies Used
 | Tool/Technology    | Use case |
 |-------------------|-------------|
-| programming language used for implementation  |
+| Python     | programming language used for implementation  |
 |  Tensorflow    | library used to build and train CNN           |
 |  Keras          | to download dataset and model building        |
 |  Matplotlib     |  for plotting accuracy and loss graphs        |
 |  VS code/jupyter | for running and experimenting code          |
+
+### Dataset : 
+The MNIST dataset contains 70,000 grayscale images:
+
+- 60,000 for training
+
+- 10,000 for testing
+- each image is a 28x28 pixel square representing a single digit from 0 to 9
