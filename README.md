@@ -98,3 +98,7 @@ Training vs Validation loss
 
 ### Conclusion
 This project showcases how CNNs are designed to work with image data efficiently and demonstrates their strength in recognizing visual patterns.
+
+### OUTPUT :
+
+[output3.jpg.docx](https://github.com/user-attachments/files/20968272/output3.jpg.docx)
