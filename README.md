@@ -28,7 +28,7 @@ This project includes:
   
 ### Tools and Technologies Used
 | Tool/Technology    | Use case |
--------------------|-------------|
+|-------------------|-------------|
 | programming language used for implementation  |
 |  Tensorflow    | library used to build and train CNN           |
 |  Keras          | to download dataset and model building        |
