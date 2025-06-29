@@ -3,7 +3,7 @@
 *COMPANY* : CODTECH IT SOLUTIONS
 
 *NAME* : MURARI YAMINI
-
+ 
 *INTERN ID* : CT04DF2780
 
 *DOMAIN* : MACHINE LEARNING
@@ -27,3 +27,10 @@ This project includes:
 - Visualization of training and validation performance
   
 ### Tools and Technologies Used
+| Tool/Technology    | Use case                                  |
+------------------------------------------------------------------
+|  Python        | programming language used for implementation  |
+|  Tensorflow    | library used to build and train CNN           |
+|  Keras          | to download dataset and model building        |
+|  Matplotlib     |  for plotting accuracy and loss graphs        |
+|  VS code/jupyter | for running and experimenting code          |
