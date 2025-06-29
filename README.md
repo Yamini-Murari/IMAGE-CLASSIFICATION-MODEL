@@ -42,3 +42,15 @@ The MNIST dataset contains 70,000 grayscale images:
 
 - 10,000 for testing
 - each image is a 28x28 pixel square representing a single digit from 0 to 9
+
+### Model Details
+The architecture of CNN used in this task consists of the following layers:
+1.Conv2D Layer(32 filters,3x3 kernel,ReLU activation) – Conscientious to learn simple edges and textures.
+2.MaxPooling2D Layer – Used to reduce dimensionality and computation.
+3.Conv2D Layer(64 filters,x3 kernel,ReLU activation) – Conscientious to learn complicated features and patterns.
+4.MaxPooling2D Layer – Further reduces the dimensionality.
+5.Flatten Layer – Converts 2D feature maps to a 1D vector for fully connected layers.
+6.Dense Layer (64 units,ReLU activation) – Hidden layer for learning non-linear combinations of features.
+7.Dense Output Layer (10 units,Softmax activation) – Outputs probability distribution over 10 digit classes.
+
+
