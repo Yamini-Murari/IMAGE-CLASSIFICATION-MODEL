@@ -16,12 +16,12 @@
 
 This project includes:
 
-*Data loading and preprocessing
+- Data loading and preprocessing
 
-*CNN architecture construction
+- CNN architecture construction
 
-*Model compilation and training
+- Model compilation and training
 
-*Model evaluation
+- Model evaluation
 
-*Visualization of training and validation performance
+- Visualization of training and validation performance
