@@ -101,4 +101,5 @@ This project showcases how CNNs are designed to work with image data efficiently
 
 ### OUTPUT :
 
-[output3.jpg.docx](https://github.com/user-attachments/files/20968272/output3.jpg.docx)
+![Image](https://github.com/user-attachments/assets/9c9e7e8e-f386-49b8-8ced-9d8e7c55d78f)
+
