@@ -26,4 +26,4 @@ This project includes:
 
 - Visualization of training and validation performance
   
-* Tools and Technologies Used
+### Tools and Technologies Used
