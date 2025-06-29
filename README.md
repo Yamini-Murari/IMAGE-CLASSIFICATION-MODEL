@@ -25,3 +25,5 @@ This project includes:
 - Model evaluation
 
 - Visualization of training and validation performance
+  
+* Tools and Technologies Used
